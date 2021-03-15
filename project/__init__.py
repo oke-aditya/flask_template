@@ -7,4 +7,4 @@ app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///project.db"
 
 db = SQLAlchemy(app)
 
-from market import routes, models  # noqa
+from market import routes  # noqa
