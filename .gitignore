@@ -1,3 +1,6 @@
+# Secrets stored in flask
+instance/
+
 # Files
 *.DS_Store
 *.vscode
