@@ -1,6 +1,7 @@
 flake8
-Flask
-Flask-SQLAlchemy
-Flask-WTF
-SQLAlchemy
-WTForms
+flask
+flask-sqlalchemy
+flask-wtf
+wtforms
+flask-login
+email_validator
